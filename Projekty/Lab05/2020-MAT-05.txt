@@ -1,0 +1,12 @@
+Wygrywajaca: 44
+Gracz 1 Liczba kosci: 2 Wyrzucone: 1 2 Bonus: 0 Suma: 3
+Gracz 2 Liczba kosci: 3 Wyrzucone: 2 2 3 Bonus: 0 Suma: 7
+Gracz 1 Liczba kosci: 3 Wyrzucone: 2 4 5 Bonus: 0 Suma: 14
+Gracz 2 Liczba kosci: 3 Wyrzucone: 4 5 5 Bonus: 2 Suma: 23
+Gracz 1 Liczba kosci: 3 Wyrzucone: 2 5 4 Bonus: 0 Suma: 25
+Gracz 2 Liczba kosci: 3 Wyrzucone: 1 2 2 Bonus: 0 Suma: 28
+Gracz 1 Liczba kosci: 2 Wyrzucone: 6 4 Bonus: 2 Suma: 37
+Gracz 2 Liczba kosci: 1 Wyrzucone: 4 Bonus: 1 Suma: 33
+Gracz 1 Liczba kosci: 1 Wyrzucone: 6 Bonus: 2 Suma: 45
+Gracz 2 Liczba kosci: 2 Wyrzucone: 3 2 Bonus: 0 Suma: 38
+Wygral gracz 1
